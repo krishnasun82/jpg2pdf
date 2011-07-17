@@ -1,0 +1,5 @@
+Recently I needed to scan some documents, but no scanners handy. So I took pictures of them and embedded it in a landscape PDF, using this Python code
+
+Required: Python 2.4+, Reportlab library
+
+Usage: python jpg2pdf.py <jpg> <pdf>
